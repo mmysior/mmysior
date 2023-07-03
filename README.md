@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Marek. I have a PhD in Mechanical Engineering.
+My main areas of interest are:
+- TRIZ and Innovative Design
+- Modular Design
+- Data Science and AI in engineering
+
 
 <!--
 **mmysior/mmysior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
